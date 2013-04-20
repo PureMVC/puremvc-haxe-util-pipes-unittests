@@ -3,9 +3,9 @@ PureMVC Haxe MultiCore Pipes Utility - Unit Tests (Ported)
 Release Date: 4/20/13
     Platform: haXe - JavaScript, Flash 6, 7, 8, 9, Neko VM
      Version: 1 
-    Revision: 2
+    Revision: 1
      Authors: Marco Secchi <marco.secchi@puremvc.org>
             : Cliff Hall <clifford.hall@puremvc.org>
 --------------------------------------------------------------------------
-1.2   Build config changes
+1.1   Build config changes
 1.0   First official release on PureMVC MultiCore Utility - Pipes.
