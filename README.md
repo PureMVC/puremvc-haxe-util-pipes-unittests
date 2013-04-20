@@ -4,7 +4,7 @@ These are the unit tests for the PureMVC Haxe Pipes Utility.
 * [Discussion](http://forums.puremvc.org/index.php?topic=935)
 
 ## Status
-Production - [Version 1.2](https://github.com/PureMVC/puremvc-haxe-util-pipes-unittests/blob/master/VERSION)
+Production - [Version 1.1](https://github.com/PureMVC/puremvc-haxe-util-pipes-unittests/blob/master/VERSION)
 
 ## Platforms / Technologies
 * [Haxe](http://en.wikipedia.org/wiki/Haxe)
